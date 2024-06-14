@@ -1,0 +1,1 @@
+This is branch is used to improve ArduPlane's soaring performance during climb. 
